@@ -9,7 +9,7 @@ function QRCode() {
       <h1 className="mx-[32px] mb-[16px] mt-[24px] text-[1.375rem] leading-[1.65rem] font-bold text-slate-900">
         Improve your front-end skills by building projects
       </h1>
-      <p className="mx-[32px] leading-[1.3125rem] text-[0.9375rem] text-slate-500">
+      <p className="tracking-[0.0125rem] mx-[32px] leading-[1.3125rem] text-[0.9375rem] text-slate-500">
         Scan the QR code to visit Frontend Mentor and take your coding skills to
         the next level
       </p>
